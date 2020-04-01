@@ -3,6 +3,11 @@ tmux plugin showing GPU usage
 
 ![Example](example.png)
 
+Requirements
+------------
+Nvidia cuda toolkit must be installed (the plugin internally calls `nvidia-smi`)
+
+
 Installation
 ------------
 ### Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) (recommended)
