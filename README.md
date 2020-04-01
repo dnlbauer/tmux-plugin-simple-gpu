@@ -1,4 +1,4 @@
-# tmux-plugin-gpu-simple
+# tmux-plugin-simple-gpu
 tmux plugin showing GPU usage
 
 Installation
@@ -8,7 +8,7 @@ Installation
 Add plugin to the list of TPM plugins in `.tmux.conf`:
 
 ```
-set -g @plugin 'danijoo/tmux-plugin-gpu-simple'
+set -g @plugin 'danijoo/tmux-plugin-simple-gpu'
 ```
 
 Hit `prefix + I` to fetch the plugin and source it.
