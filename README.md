@@ -1,6 +1,8 @@
 # tmux-plugin-simple-gpu
 tmux plugin showing GPU usage
 
+![Example](example.png)
+
 Installation
 ------------
 ### Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) (recommended)
